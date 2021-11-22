@@ -1,4 +1,7 @@
-# CMR Strain Synchrony Analysis 
+# CMR Strain Synchrony Analysis
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jfpva/cmr_strain_synchrony_analysis/blob/main/cmr_strain_synchrony_analysis.ipynb)
+
 
 Perform sychrony analysis on regional strain curves in scientific reports from Circle cvi42.
 
